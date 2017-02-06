@@ -1,6 +1,7 @@
-# Geração de boleto e arquvios de remessa e retorno
+# Geração de boleto e arquivos de remessa e retorno
 
-Projeto desenvolvido em cima do BoletoNet 
+    Projeto desenvolvido em cima do BoletoNet
+
 Banco homologados
 
 - HSBC
