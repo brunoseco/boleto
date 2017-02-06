@@ -1,0 +1,8 @@
+C:\Projetos\Common-V2\Main\Boleto.Net\bin\Debug\Boleto.Net.dll
+C:\Projetos\Common-V2\Main\Boleto.Net\bin\Debug\Boleto.Net.pdb
+C:\Projetos\Common-V2\Main\Boleto.Net\obj\Debug\Boleto.Net.csprojResolveAssemblyReference.cache
+C:\Projetos\Common-V2\Main\Boleto.Net\obj\Debug\BoletoNet.HtmlCaixa.resources
+C:\Projetos\Common-V2\Main\Boleto.Net\obj\Debug\BoletoNet.Html.resources
+C:\Projetos\Common-V2\Main\Boleto.Net\obj\Debug\Boleto.Net.csproj.GenerateResource.Cache
+C:\Projetos\Common-V2\Main\Boleto.Net\obj\Debug\Boleto.Net.dll
+C:\Projetos\Common-V2\Main\Boleto.Net\obj\Debug\Boleto.Net.pdb

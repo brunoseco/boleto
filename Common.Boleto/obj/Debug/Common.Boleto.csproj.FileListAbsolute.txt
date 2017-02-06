@@ -1,0 +1,14 @@
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Common.Boleto.dll
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Common.Boleto.pdb
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Select.Html.dep
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Boleto.Net.dll
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Common.Document.dll
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Select.Pdf.dll
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\itextsharp.dll
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Boleto.Net.pdb
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Common.Document.pdb
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\Select.Pdf.xml
+C:\Projetos\Common-V2\Main\Common.Boleto\bin\Debug\itextsharp.xml
+C:\Projetos\Common-V2\Main\Common.Boleto\obj\Debug\Common.Boleto.csprojResolveAssemblyReference.cache
+C:\Projetos\Common-V2\Main\Common.Boleto\obj\Debug\Common.Boleto.dll
+C:\Projetos\Common-V2\Main\Common.Boleto\obj\Debug\Common.Boleto.pdb
